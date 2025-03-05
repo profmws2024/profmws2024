@@ -32,7 +32,7 @@
 ###
 <h2 align="left">Skills Beads</h2>
 ###
-<img scr = https://www.credly.com/badges/0377fe48-8cc4-4491-90bf-826c2d3a37c5/public_url>
+<img scr = "https://www.credly.com/badges/0377fe48-8cc4-4491-90bf-826c2d3a37c5/public_url">
 
 <p align="left"><strong>Hello World!!</strong></p>
 
