@@ -31,7 +31,7 @@
 </div>
 ###
 <h2 align="left">Skills Beads</h2>
-<img src="C:\Users\Matheus\Desktop\skils beads\basic-principles-of-design.png" alt="Skill Badge">
+<img src="img/basic-principles-of-design.png" alt="Skill Badge">
 
 
 
