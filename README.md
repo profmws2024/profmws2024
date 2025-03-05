@@ -32,6 +32,7 @@
 
 <h2 align="left">Skills Beads</h2>
 <img src="img/basic-principles-of-design.png" height="120" alt="Skill Badge">
+<img src="C:\Users\Matheus\Documents\GitHub\profmws2024\img\computer-hardware-basics.png" height="120" alt="Skill Badge">
 
 
 
