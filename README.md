@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-###
+
 <h2 align="left">Skills Beads</h2>
 <img src="img/basic-principles-of-design.png" height="70" alt="Skill Badge">
 
