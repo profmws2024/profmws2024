@@ -32,8 +32,8 @@
 
 <h2 align="left">Skills Beads</h2>
 <div style="display: flex; gap: 20px;">
-  <img src="img/basic-principles-of-design.png" height="120" alt="Skill Badge 1">
-  <img src="img/computer-hardware-basics.png" height="120" alt="Skill Badge 2">
+  <img src="img/basic-principles-of-design.png" height="100" alt="Skill Badge 1">
+  <img src="img/computer-hardware-basics.png" height="100" alt="Skill Badge 2">
 </div>
 
 
