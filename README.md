@@ -32,7 +32,7 @@
 ###
 <h2 align="left">Skills Beads</h2>
 ###
-<img src="https://www.credly.com/badges/0377fe48-8cc4-4491-90bf-826c2d3a37c5/image.png" alt="Skill Badge">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0377fe48-8cc4-4491-90bf-826c2d3a37c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <p align="left"><strong>Hello World!!</strong></p>
