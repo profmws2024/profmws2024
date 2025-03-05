@@ -31,8 +31,10 @@
 </div>
 
 <h2 align="left">Skills Beads</h2>
-<img src="img/basic-principles-of-design.png" height="120" alt="Skill Badge"> <img src="img/computer-hardware-basics.png" height="120" alt="Skill Badge">
-
+<div style="display: flex; gap: 10px;">
+  <img src="img/basic-principles-of-design.png" height="120" alt="Skill Badge 1">
+  <img src="img/computer-hardware-basics.png" height="120" alt="Skill Badge 2">
+</div>
 
 
 <p align="left"><strong>Hello World!!</strong></p>
