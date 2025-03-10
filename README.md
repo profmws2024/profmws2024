@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><strong>Meu nome é Matheus, sou instrutor de TI..</strong></p>
+<p align="left"><strong>Meu nome é Matheus, sou instrutor de TI.</strong></p>
 
 ###
 
