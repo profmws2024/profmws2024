@@ -30,7 +30,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-
-<p align="left"><strong>Hello World!!</strong></p>
-
-###
